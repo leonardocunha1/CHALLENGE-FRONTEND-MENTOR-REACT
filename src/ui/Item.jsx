@@ -78,7 +78,7 @@ function Item({ data }) {
               <div className="relative h-4 w-4 rounded-full border">
                 <button
                   onClick={handleIncrement}
-                  className="absolute left-1/2 top-1/2 -translate-x-[50%] -translate-y-[55%] text-lg text-primary-50"
+                  className="absolute left-1/2 top-1/2 -translate-x-[45%] -translate-y-[55%] text-lg text-primary-50"
                 >
                   +
                 </button>
